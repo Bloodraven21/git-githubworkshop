@@ -18,3 +18,10 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 #### 10 days of git and github
 https://github.com/Asabeneh/10-days-of-git-and-github
+
+### How to contribute
+https://opensource.guide/how-to-contribute/
+
+
+### First Contributions
+https://github.com/firstcontributions/first-contributions
