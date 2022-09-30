@@ -1,0 +1,5 @@
+Name=Muskan Parmar
+Class Roll no.=104
+RTU roll no. =21EARCS107
+Year=2nd year
+Class=CS-B
